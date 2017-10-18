@@ -2,7 +2,7 @@
 layout: post
 title:  "Chroma Connect"
 image: "https://geekyleek.com/wp-content/uploads/2014/04/logoRounded.png"
-date:   2017-10-17
+date:   2017-10-16
 excerpt: "How many colours can you perfectly match?"
 project: true
 tag:
