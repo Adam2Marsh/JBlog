@@ -1,9 +1,9 @@
 # Site
-title:          Adam2Marsh Brain
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Brain Dump
+bio:            'My site to dump anything from my brain'
+description:    "Adam2Marsh site filled with blog post and projects I've worked on"
 picture:        'assets/img/profile.png'
-locale:         en_US
+locale:         en_UK
 url:            https://adam2marsh.github.io
 
 

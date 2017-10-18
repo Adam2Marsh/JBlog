@@ -1,22 +1,16 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+title: About this Site
+tags: [about, Jekyll, Adam2Marsh, Credits]
+date: 2017-10-18
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
-{: .image-pull-right}
-
-<center><b>JBlog</b> is a simple jekyll theme.</center>
-
 ## About
+After a few attempts I've finally decided to created this blog as a way of dumping information from my brain. Hopefully you'll find some interesting [blog](http://www.adam2marsh.co.uk/blog/) posts on whatever I thought was interesting. I'm also going to have links to any [projects](http://www.adam2marsh.co.uk/projects/) I've worked on; might be a game, a picture I took or something I participated in I'd like to highlight.
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+At the bottom of every page you'll find ways to get in contact with me, so if you have any comments please get in contact.
 
-
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+## Credits
+* Blog created using [Jekyll](https://jekyllrb.com/)
+* Jekyll theme [JBlog](https://github.com/alperenbozkurt/JBlog)
+* Brain Icon made by [Twitter](https://www.flaticon.com/authors/twitter) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
